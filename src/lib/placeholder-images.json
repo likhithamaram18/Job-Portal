@@ -1,3 +1,28 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-students",
+      "description": "A group of diverse, happy students collaborating on a project.",
+      "imageUrl": "https://images.unsplash.com/photo-1594686948539-2709857f7066?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdHVkZW50cyUyMGdyYWR1YXRpb258ZW58MHx8fHwxNzY2ODI4ODY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students graduation"
+    },
+    {
+      "id": "logo-techcorp",
+      "description": "Logo for TechCorp",
+      "imageUrl": "https://images.unsplash.com/photo-1663124178598-71717cdea439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dGVjaCUyMGxvZ298ZW58MHx8fHwxNzY2NzE3NDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tech logo"
+    },
+    {
+      "id": "logo-innovateinc",
+      "description": "Logo for Innovate Inc.",
+      "imageUrl": "https://images.unsplash.com/photo-1532623034127-3d92b01fb3c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjcmVhdGl2ZSUyMGxvZ298ZW58MHx8fHwxNzY2ODIwNzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "creative logo"
+    },
+    {
+      "id": "logo-datanex",
+      "description": "Logo for DataNex",
+      "imageUrl": "https://images.unsplash.com/photo-1760900199593-381d2716a970?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YSUyMGxvZ298ZW58MHx8fHwxNzY2NzY5NTY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data logo"
+    }
+  ]
 }
